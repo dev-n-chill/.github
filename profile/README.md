@@ -1,9 +1,6 @@
-# ❄️ chill-libs
+# 🏖️💻 dev-n-chill
 
-**chill-libs** is a private collection of reusable Luau modules for internal use across various Roblox projects.
-
-While most of the code was initially written by Serokai, **any contributor is welcome to help improve or extend** the libraries — feel free to submit PRs or contribute through GitHub’s built-in tools.
-
+**dev-n-chill** is a private collection of reusable Luau modules for internal use across various Roblox projects.
 The APIs have been **intentionally designed to be as simple and intuitive as possible**, so the modules are easy to integrate and use with minimal setup.
 
 ---
@@ -22,23 +19,7 @@ Don't bulk download everything — many modules work independently or only depen
 
 ---
 
-## ✅ Whitelist
-
-Only the following GitHub users are allowed access to this repository:
-
-- `@Serokai`
-- `@PcoiDev`
-- `@SahSeDev`
-- `@TheSquidDev`
-- `@BigLizardC`
-- `@ShowniDev`
-- `@gataou4`
-
-If you'd like to add someone to the whitelist, please contact Serokai.
-
----
-
 ## 📜 License
 
-This project is licensed under the [GPL-3.0 License](./LICENSE).  
-Commercial use or redistribution is **not permitted** outside the authorized team.
+Every project is licensed under the [GPL-3.0 License](./LICENSE).  
+Commercial use or redistribution is **not permitted** outside the organization.
