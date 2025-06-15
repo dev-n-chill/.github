@@ -1,6 +1,6 @@
-# 🏖️💻 dev'n chill
+# 🏖️💻 dev n'chill
 
-**dev'n chill** is a private collection of reusable Luau modules for internal use across various Roblox projects.<br>
+**dev n'chill** is a private collection of reusable Luau modules for internal use across various Roblox projects.<br>
 
 The APIs have been **intentionally designed to be as simple and intuitive as possible**, so the modules are easy to integrate and use with minimal setup.
 
