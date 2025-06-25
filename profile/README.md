@@ -9,7 +9,6 @@ The APIs have been **intentionally designed to be as simple and intuitive as pos
 ## 📦 Dependencies
 
 Certain modules rely on external libraries.
-However, you only need to download the dependencies required by the modules you actually use.
 Don't bulk download everything — many modules work independently or only depend on a subset of the following:
 
 - [`Signal`](https://github.com/Sleitnick/RbxUtil/blob/main/modules/signal/init.luau)
