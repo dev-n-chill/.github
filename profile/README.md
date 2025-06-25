@@ -20,5 +20,5 @@ Don't bulk download everything — many modules work independently or only depen
 
 ## 📜 License
 
-Every project is licensed under the [GPL-3.0 License](./LICENSE).  
+Every project is licensed under the GPL-3.0 License 
 Commercial use or redistribution is **not permitted** outside the organization.
